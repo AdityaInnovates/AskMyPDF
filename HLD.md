@@ -1,8 +1,8 @@
-# High-Level Design (HLD) for PDF Q&A Chatbot Backend
+# High-Level Design (HLD) for AskMyPdf Chatbot Backend
 
 ## Overview
 
-The PDF Q&A Chatbot Backend is a FastAPI application that allows users to upload PDF documents and ask questions about their content. The application processes the uploaded PDFs, stores them in a database, and utilizes a question-answering model to provide answers based on the document's content.
+The AskMyPdf Chatbot Backend is a FastAPI application that allows users to upload PDF documents and ask questions about their content. The application processes the uploaded PDFs, stores them in a database, and utilizes a question-answering model to provide answers based on the document's content.
 
 ## Architecture Diagram
 
