@@ -62,8 +62,6 @@ The PDF Q&A API is a FastAPI application that allows users to upload PDF documen
 
 ## API Documentation
 
-For detailed API documentation, visit [API Documentation](https://ai-planet.fly.dev/docs).
-
 ### Endpoints
 
 #### 1. Upload PDF
