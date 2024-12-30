@@ -1,0 +1,10 @@
+.env
+__pycache__
+/uploads
+/vectorstores
+/venv
+test.py
+.dockerignore
+Dockerfile
+fly.toml
+.DS_Store
